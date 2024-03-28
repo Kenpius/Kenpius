@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm keneth pius</h1>
 <h3 align="center">A passionate frontend developer from Tanzania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkenpius&label=Profile%20views&color=0e75b6&style=flat" alt="devkenpius" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenpius&label=Profile%20views&color=0e75b6&style=flat" alt="kenpius" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkenpius" alt="devkenpius" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenpius" alt="kenpius" /></a> </p>
 
 - 🔭 I’m currently working on web development [portfolio](https://github.com/Kenpius/Dev.Kenpius)
 
